@@ -1,4 +1,4 @@
-# Movie Catalogue
+# Event App - En Vited
 
 - node version: v16.14.2
 - yarn version:  1.22.18
